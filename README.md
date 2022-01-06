@@ -1,6 +1,6 @@
 # 404
 
-## Instruction
+## Instructions
 
 We had to create an error 404 page. I choosed this kind of design. 
 
